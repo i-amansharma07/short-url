@@ -1,4 +1,4 @@
-import { pool } from "../../lib/pool";
+import { pool } from "@/app/lib/pool";
 import { NextResponse } from "next/server";
 
 export async function GET(
